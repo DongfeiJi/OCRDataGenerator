@@ -31,3 +31,5 @@ python run.py -l cn -c 100 -w 5
 ### 文件说明
 1，dicts文件夹用于修改生成你想要内容的，如改变生成的中文汉字内容，只需改变cn.text文件内容。  
 2，你同样可以修改你的字体，在fonts文件夹，支持.tff文件。  
+  
+原项目地址:https://github.com/Belval/TextRecognitionDataGenerator  
